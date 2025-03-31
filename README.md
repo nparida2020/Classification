@@ -15,3 +15,9 @@ https://console.cloud.google.com/vertex-ai/models/locations/us-central1/models/1
 Github link:
 
 https://github.com/nparida2020/Classification/blob/main/README.md
+
+<img width="959" alt="Image" src="https://github.com/user-attachments/assets/e88a8d13-b434-42fa-a4fe-b19c77d2ea47" />
+
+<img width="953" alt="Image" src="https://github.com/user-attachments/assets/76964cec-5097-41b4-ac81-6f0f51ee336e" />
+
+<img width="947" alt="Image" src="https://github.com/user-attachments/assets/44a6d3c1-0e85-4deb-8f9b-f5884afca667" />
