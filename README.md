@@ -2,7 +2,7 @@
 
 <img width="689" alt="Image" src="https://github.com/user-attachments/assets/27dd0750-225e-4b65-975a-204e3d9576b4" />
 
-<img width="689" alt="Image" src="https://github.com/user-attachments/assets/d34fb519-8115-4f1f-9d91-056fd715a60c" />
+
 
 The Project is executed using tensorflow python packages in google colab build environment. 
 Due to current version of the tensorflow requirements, the project canot be executed in lower CPU version. Tensorflow 2.19.6 need hisher CPU version.
