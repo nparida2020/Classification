@@ -31,6 +31,8 @@ The model tested using test images in vertext AI and  model acuracy (approximate
 
 Code uploaded in Github and link provided below:
 https://github.com/nparida2020/Classification/blob/main/README.md
+PPT Link:
+https://1drv.ms/p/c/6a4267724fe517d0/EbxwQQhcVY5Lvq6Nu7biYTwBxz40kpbGEKee25n0KIeLTg?e=6uANqe
 
 Conclusion:
 This study examines Deep Learning CNN model for breast cancer classification using tesorflow library after preprocessing dataset. Breast cancer is a prevalent disease affecting women worldwide, with machine-learning approaches potentially impacting early detection and prognosis. The disease is classified into two subtypes: invasive ductal carcinoma (IDC) and ductal carcinoma in situ (DCIS). Early detection is crucial for successful treatment, and appropriate screening technologies are essential. Advancements in artificial intelligence have made mammography more accurate, and deep learning models are being developed to recognize breast cancer in computerized mammograms. Convolutional neural networks and AI are emerging in healthcare to improve image processing and reduce human eye recognition. 
