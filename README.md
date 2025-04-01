@@ -7,6 +7,7 @@ CNN Layers and Parameters:
 <img width="366" alt="Image" src="https://github.com/user-attachments/assets/208d7c2e-9f75-4d91-9597-58f69f1bff7c" />
 
 EXecution Environment:
+
 The Project is executed using tensorflow python packages in google colab build environment. 
 Due to current version of the tensorflow requirements, the project canot be executed in lower CPU version. Tensorflow 2.19.6 need hisher CPU version.
 The XLA_GPU and XLA_CPU version is comatible for the current tensorflow python packages.
@@ -19,12 +20,14 @@ Datasets: 3 different classes (benign,malignant,normal) -images, stored in data 
 4) Create a folder save_model under the \content\drive\MyDrive in google drive to save the model after training.
 
 Model Deplopyment And Testing:
+
 The model deployed in google vwertext AI platform and tested using test data.
 The model deployed using project id : project-bc001
 The vertex ai link given below:
 https://console.cloud.google.com/vertex-ai/models/locations/us-central1/models/1137261160492433408/versions/1/deploy?hl=en&invt=AbtQYw&project=project-bc001
 
-Test Result: 
+Model Test Result: 
+
 The model tested using test images in vertext AI and  model acuracy (approximately) up to 65 to 75 % observed.
 
 <img width="959" alt="Image" src="https://github.com/user-attachments/assets/e88a8d13-b434-42fa-a4fe-b19c77d2ea47" />
@@ -34,10 +37,12 @@ The model tested using test images in vertext AI and  model acuracy (approximate
 <img width="947" alt="Image" src="https://github.com/user-attachments/assets/44a6d3c1-0e85-4deb-8f9b-f5884afca667" />
 
 Code uploaded in Github and link provided below:
+
 https://github.com/nparida2020/Classification/blob/main/README.md
 
 
 PPT Link:
+
 https://1drv.ms/p/c/6a4267724fe517d0/EbxwQQhcVY5Lvq6Nu7biYTwBxz40kpbGEKee25n0KIeLTg?e=6uANqe
 
 Conclusion:
