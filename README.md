@@ -31,6 +31,8 @@ The model tested using test images in vertext AI and  model acuracy (approximate
 
 Code uploaded in Github and link provided below:
 https://github.com/nparida2020/Classification/blob/main/README.md
+
+
 PPT Link:
 https://1drv.ms/p/c/6a4267724fe517d0/EbxwQQhcVY5Lvq6Nu7biYTwBxz40kpbGEKee25n0KIeLTg?e=6uANqe
 
