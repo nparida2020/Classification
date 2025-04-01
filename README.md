@@ -1,8 +1,6 @@
 <img width="693" alt="Image" src="https://github.com/user-attachments/assets/c927f9ed-897d-46b8-8eea-9b09d1192f52" />
-
 <img width="689" alt="Image" src="https://github.com/user-attachments/assets/27dd0750-225e-4b65-975a-204e3d9576b4" />
 <img width="561" alt="Image" src="https://github.com/user-attachments/assets/7beab16b-f3a7-4005-b937-040bd6bb401f" />
-
 The Project is executed using tensorflow python packages in google colab build environment. 
 Due to current version of the tensorflow requirements, the project canot be executed in lower CPU version. Tensorflow 2.19.6 need hisher CPU version.
 The XLA_GPU and XLA_CPU version is comatible for the current tensorflow python packages.
