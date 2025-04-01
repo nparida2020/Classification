@@ -2,6 +2,10 @@
 <img width="689" alt="Image" src="https://github.com/user-attachments/assets/7e8ac8e2-72df-4c3f-aa80-4ab7f4775430" />
 <img width="561" alt="Image" src="https://github.com/user-attachments/assets/7beab16b-f3a7-4005-b937-040bd6bb401f" />
 
+CNN Layers and Parameters:
+
+<img width="366" alt="Image" src="https://github.com/user-attachments/assets/208d7c2e-9f75-4d91-9597-58f69f1bff7c" />
+
 EXecution Environment:
 The Project is executed using tensorflow python packages in google colab build environment. 
 Due to current version of the tensorflow requirements, the project canot be executed in lower CPU version. Tensorflow 2.19.6 need hisher CPU version.
